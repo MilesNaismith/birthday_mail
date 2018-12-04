@@ -1,0 +1,8 @@
+
+CONFLUENCE_CONNECTION_STRING = 'http://your-server.atlassian.net/wiki/'
+CONFLUENCE_USER = 'admin'
+CONFLUENCE_PASSWORD = 'admin'
+CONFLUENCE_SPACE = 'USERS'
+CONFLUENCE_PAGE_ID = '327681'
+IMAP_SERVER_HOST_NAME= 'mx.mail-server.ru'
+SENDING_TIME = '10:20'

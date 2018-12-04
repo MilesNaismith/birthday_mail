@@ -1,0 +1,4 @@
+beautifulsoup4==4.6.3
+schedule==0.5.0
+python-daemon==2.2.0
+docutils==0.14
